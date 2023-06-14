@@ -22,8 +22,6 @@ import Saksoft_Project.com.saksoft.first.service.Servicei;
 @RestController
 @RequestMapping("/saksoft")
 public class HomeController {
-
-	
 	@Autowired
 	private Servicei sr;
 	
